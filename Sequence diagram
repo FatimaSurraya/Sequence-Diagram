@@ -1,0 +1,19 @@
+Use Case 1: Submitting an e-Consult Request
+ 
+
+Description: 
+The patient start the e-Consult app by triggering it by clicking on the app icon. When app is triggered it displays the necessary form fields on the user interface. The patient interacts with the app by providing the necessary information related to their medical or administrative request, for example filling out the form fields with required details. After filling out the form field the patient submits the request through the app's interface. Then app sends request to GP Practice's system for further processing. At the GP Practice's end, the request received from the app goes triage and evaluation. This involves medical professionals assessing the submitted request, determining the nature of care required, and making a decision of further proceedings. Eventually, GP Practice sends a confirmation or status update to the e-Consult app.
+
+
+Use Case 2: Viewing Real-time Status of Request
+
+
+
+Description:
+The Patient starts the process by logging into the app via the User Interface (UI). This action stimulates the authentication process, The UI component communicates with the App for user authentication. App verifies the credentials with database. After authentication, app request database to retrieve the request history. This history provides previous requests made by the Patient. The server sends requested history back to the app. Upon this patient select a specific request from their request history. The UI sends the selected request to the App. Upon receiving the request to check the status of a specific request the App communicates with the Database and request real-time data of selected request.
+
+Use Case 3: Accessing Previous Medical History
+ 
+
+Description:
+The patient login to the app by entering the credentials. The UI communicates with the App and provide user authentication. Upon user authentication, the App requests access to the patient's medical history from the Medical Records Database. Database grants access to the requested history. The App requests the actual medical history data from Database. The Database provides the e-Consult App with the Medical History Data of patient. The Database provides the e-Consult App with the patient's Medical History Data. The Patient navigates through their medical records using the UI of the application.
