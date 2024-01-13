@@ -1,0 +1,141 @@
+<mxfile host="Electron" modified="2023-11-25T16:23:34.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="uejjokZkys9RKiSJuzrA" version="21.6.5" type="device">
+  <diagram name="Page-1" id="fDowX3mjnF0diGEsAqfm">
+    <mxGraphModel dx="484" dy="540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-1" value="UI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="310" y="40" width="100" height="301" as="geometry" />
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="x5NzaeBb4QI2yu6OUR2V-1">
+          <mxGeometry x="45" y="80" width="10" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="x5NzaeBb4QI2yu6OUR2V-1">
+          <mxGeometry x="45" y="252" width="10" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-3" value="Login(): String" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" target="x5NzaeBb4QI2yu6OUR2V-2">
+          <mxGeometry x="-0.0618" relative="1" as="geometry">
+            <mxPoint x="80" y="140" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="175" y="140" />
+            </Array>
+            <mxPoint x="330" y="140" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-5" value="e-Consult App" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="x5NzaeBb4QI2yu6OUR2V-5">
+          <mxGeometry x="45" y="220" width="10" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="x5NzaeBb4QI2yu6OUR2V-5">
+          <mxGeometry x="45" y="343" width="10" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="x5NzaeBb4QI2yu6OUR2V-5">
+          <mxGeometry x="45" y="110" width="10" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-9" value="Patient" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="10" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-11" value="CheckStatusOfRequest(): String" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="x5NzaeBb4QI2yu6OUR2V-6">
+          <mxGeometry x="0.0051" relative="1" as="geometry">
+            <mxPoint x="365" y="320" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="560" y="320" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="355" y="350" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-13" value="SendHistoryOfPatient(): String" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="x5NzaeBb4QI2yu6OUR2V-17" target="x5NzaeBb4QI2yu6OUR2V-6">
+          <mxGeometry x="0.0053" relative="1" as="geometry">
+            <mxPoint x="569.5" y="313" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="598" y="286" />
+            </Array>
+            <mxPoint x="764" y="313" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-16" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="757" y="35" width="100" height="395" as="geometry" />
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="x5NzaeBb4QI2yu6OUR2V-16">
+          <mxGeometry x="45" y="245" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="x5NzaeBb4QI2yu6OUR2V-16">
+          <mxGeometry x="45" y="350" width="10" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="x5NzaeBb4QI2yu6OUR2V-16">
+          <mxGeometry x="45" y="164" width="10" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-19" value="Authenttication(): String" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=0.5;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x5NzaeBb4QI2yu6OUR2V-2">
+          <mxGeometry x="-0.0027" relative="1" as="geometry">
+            <mxPoint x="370" y="180" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="410" y="180" />
+            </Array>
+            <mxPoint x="565" y="180.53999999999996" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-20" value="RetrieveHistory(): String" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" target="x5NzaeBb4QI2yu6OUR2V-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="574" y="216" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="763" y="214" />
+            </Array>
+            <mxPoint x="765" y="216" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-21" value="Confirmation(): String" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="x5NzaeBb4QI2yu6OUR2V-12">
+          <mxGeometry x="0.05" y="-4" relative="1" as="geometry">
+            <mxPoint x="290" y="405" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="404.5" />
+            </Array>
+            <mxPoint x="565" y="404.5" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-26" value="SelectsASpecificRequest(): String" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0618" relative="1" as="geometry">
+            <mxPoint x="80" y="309" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="175" y="309" />
+            </Array>
+            <mxPoint x="355" y="309" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-27" value="FetchReal-TimeDataOfTheRequest(): String" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="x5NzaeBb4QI2yu6OUR2V-16">
+          <mxGeometry x="0.0051" relative="1" as="geometry">
+            <mxPoint x="576" y="338" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="705" y="338" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x5NzaeBb4QI2yu6OUR2V-28" value="ProvidesRequestedData(): String" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.05" y="-4" relative="1" as="geometry">
+            <mxPoint x="573" y="397.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="628" y="397" />
+            </Array>
+            <mxPoint x="803" y="398" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
